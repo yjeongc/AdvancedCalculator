@@ -1,0 +1,6 @@
+*.exe
+
+#Flex and Bison generated files
+*.lex.c
+*.tab.c
+*.tab.h
